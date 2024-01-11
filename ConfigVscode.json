@@ -1,0 +1,39 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 10,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Min Dark",
+    "workbench.sideBar.location": "right",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80,120],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "workbench.statusBar.visible": false,
+    "workbench.layoutControl.enabled": true,
+    "window.titleBarStyle": "native",
+    "apc.electron": {
+        "titleBarStyle": "hiddenInset",
+        "frame": false
+    },
+    "apc.header":{
+        "height": 36
+    },
+    "apc.stylesheet": {
+        ".title-label > h2": "display: none"
+    },
+    "apc.font.family": "Inter",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "window.commandCenter": false,
+}
