@@ -1,0 +1,33 @@
+{
+  "workbench.iconTheme": "symbols",
+  "workbench.startupEditor": "none",
+  "editor.fontSize": 18,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.lineHeight": 1.8,
+  "editor.fontWeight": "500",
+  "window.zoomLevel": 0.5,
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "workbench.activityBar.location": "bottom",
+  "explorer.compactFolders": false,
+  "editor.minimap.autohide": true,
+  "editor.stickyScroll.enabled": false,
+  "workbench.sideBar.location": "left",
+  "editor.mouseWheelZoom": true,
+  "workbench.statusBar.visible": false,
+  "editor.wordWrap": "on",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "editor.scrollbar.horizontalScrollbarSize": 0,
+  "window.menuBarVisibility": "toggle",
+  "breadcrumbs.enabled": false,
+  "editor.rulers": [80, 120],
+  "workbench.editorAssociations": {
+    "*.avi": "default"
+  },
+  "workbench.colorTheme": "Talles Souza"
+}
